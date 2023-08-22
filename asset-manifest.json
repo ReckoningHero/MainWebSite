@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mainwebsite/static/css/main.6cc582f9.css",
-    "main.js": "/mainwebsite/static/js/main.a29b6b59.js",
-    "static/js/787.1ed0c42c.chunk.js": "/mainwebsite/static/js/787.1ed0c42c.chunk.js",
-    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/mainwebsite/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
-    "static/media/RobotoSlab-Black.ttf": "/mainwebsite/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
-    "static/media/RobotoSlab-Bold.ttf": "/mainwebsite/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/mainwebsite/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/Daniel Resume.pdf": "/mainwebsite/static/media/Daniel Resume.b966a1e1e59d5128dca6.pdf",
-    "static/media/GildaDisplay-Regular.ttf": "/mainwebsite/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
-    "static/media/MyImage.webp": "/mainwebsite/static/media/MyImage.ab66301e99853ce3d083.webp",
-    "static/media/gotosite.webp": "/mainwebsite/static/media/gotosite.dc2459843a8d51a90e5d.webp",
-    "static/media/github.webp": "/mainwebsite/static/media/github.ed1c06d925fff0b57e32.webp",
-    "index.html": "/mainwebsite/index.html",
-    "main.6cc582f9.css.map": "/mainwebsite/static/css/main.6cc582f9.css.map",
-    "main.a29b6b59.js.map": "/mainwebsite/static/js/main.a29b6b59.js.map",
-    "787.1ed0c42c.chunk.js.map": "/mainwebsite/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.ea52161f.css",
+    "main.js": "/portfolio/static/js/main.5bef60b8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/portfolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/portfolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/portfolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/portfolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/Daniel Resume.pdf": "/portfolio/static/media/Daniel Resume.b966a1e1e59d5128dca6.pdf",
+    "static/media/GildaDisplay-Regular.ttf": "/portfolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/MyImage.webp": "/portfolio/static/media/MyImage.ab66301e99853ce3d083.webp",
+    "static/media/gotosite.webp": "/portfolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/portfolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/portfolio/index.html",
+    "main.ea52161f.css.map": "/portfolio/static/css/main.ea52161f.css.map",
+    "main.5bef60b8.js.map": "/portfolio/static/js/main.5bef60b8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cc582f9.css",
-    "static/js/main.a29b6b59.js"
+    "static/css/main.ea52161f.css",
+    "static/js/main.5bef60b8.js"
   ]
 }
