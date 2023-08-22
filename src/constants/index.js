@@ -42,7 +42,7 @@ export const projects = [
     code: "https://github.com/daniel-jebarson/web-chat-app",
   },
   {
-    title: "Exploiter(deprecated)",
+    title: "Unreal Engine 4: CyberWar (deprecated)",
     desc: "This is the simple multi-featured discord bot which is in more than 90+ servers that resembles lords mobile as mini game. It contains the featiures of many bots such as dyno,carl-bot,mee6 etc.It helps to authorize the users, audit the messages and can also be used for other server developments and also for mini-games.  ",
     tags: [
       {
