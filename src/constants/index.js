@@ -17,7 +17,7 @@ export const projects = [
     code: "https://github.com/code-cracked/plants-vs-zombies-api",
   },
   {
-    title: "Unreal Engine 5: RPGGame",
+    title: "Unreal Engine 5: RPG Game",
     desc: "An app made with NextJs to help each other communicate fastly and securely. We can also search for the friends with their username.Realtime updates on messages.",
     tags: [
       {
