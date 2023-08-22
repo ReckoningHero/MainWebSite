@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/twinb0rn.github.io/static/css/main.dba425cb.css",
-    "main.js": "/twinb0rn.github.io/static/js/main.db76c277.js",
+    "main.js": "/twinb0rn.github.io/static/js/main.e8ae0b09.js",
     "static/js/787.1ed0c42c.chunk.js": "/twinb0rn.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/twinb0rn.github.io/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
     "static/media/RobotoSlab-Black.ttf": "/twinb0rn.github.io/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
@@ -14,11 +14,11 @@
     "static/media/github.webp": "/twinb0rn.github.io/static/media/github.ed1c06d925fff0b57e32.webp",
     "index.html": "/twinb0rn.github.io/index.html",
     "main.dba425cb.css.map": "/twinb0rn.github.io/static/css/main.dba425cb.css.map",
-    "main.db76c277.js.map": "/twinb0rn.github.io/static/js/main.db76c277.js.map",
+    "main.e8ae0b09.js.map": "/twinb0rn.github.io/static/js/main.e8ae0b09.js.map",
     "787.1ed0c42c.chunk.js.map": "/twinb0rn.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dba425cb.css",
-    "static/js/main.db76c277.js"
+    "static/js/main.e8ae0b09.js"
   ]
 }
