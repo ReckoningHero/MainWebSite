@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ff102e2.css",
-    "main.js": "/static/js/main.3eadb8af.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
-    "static/media/RobotoSlab-Black.ttf": "/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
-    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/Daniel Resume.pdf": "/static/media/Daniel Resume.b966a1e1e59d5128dca6.pdf",
-    "static/media/GildaDisplay-Regular.ttf": "/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
-    "static/media/MyImage.webp": "/static/media/MyImage.ab66301e99853ce3d083.webp",
-    "static/media/gotosite.webp": "/static/media/gotosite.dc2459843a8d51a90e5d.webp",
-    "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
-    "index.html": "/index.html",
-    "main.3ff102e2.css.map": "/static/css/main.3ff102e2.css.map",
-    "main.3eadb8af.js.map": "/static/js/main.3eadb8af.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/twinb0rn.github.io/static/css/main.dba425cb.css",
+    "main.js": "/twinb0rn.github.io/static/js/main.db76c277.js",
+    "static/js/787.1ed0c42c.chunk.js": "/twinb0rn.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/twinb0rn.github.io/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/twinb0rn.github.io/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/twinb0rn.github.io/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/twinb0rn.github.io/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/Daniel Resume.pdf": "/twinb0rn.github.io/static/media/Daniel Resume.b966a1e1e59d5128dca6.pdf",
+    "static/media/GildaDisplay-Regular.ttf": "/twinb0rn.github.io/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/MyImage.webp": "/twinb0rn.github.io/static/media/MyImage.ab66301e99853ce3d083.webp",
+    "static/media/gotosite.webp": "/twinb0rn.github.io/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/twinb0rn.github.io/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/twinb0rn.github.io/index.html",
+    "main.dba425cb.css.map": "/twinb0rn.github.io/static/css/main.dba425cb.css.map",
+    "main.db76c277.js.map": "/twinb0rn.github.io/static/js/main.db76c277.js.map",
+    "787.1ed0c42c.chunk.js.map": "/twinb0rn.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ff102e2.css",
-    "static/js/main.3eadb8af.js"
+    "static/css/main.dba425cb.css",
+    "static/js/main.db76c277.js"
   ]
 }
