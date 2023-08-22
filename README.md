@@ -40,8 +40,4 @@ I appreciate any feedback, suggestions, or contributions to enhance my portfolio
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). Please refrain from using any personal information or content without proper permission.
 
-## Contact
 
-If you would like to get in touch with me, you can reach me via email at [Mymail](mailto:danieljebarson21@gmail.com). You can also find more information about me and my work on my [LinkedIn](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a) profile.
-
-Thank you for visiting my portfolio website! I hope you find it informative and engaging.
