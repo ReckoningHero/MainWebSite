@@ -26,7 +26,7 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="flex items-center mb-1 text-lg font-semibold  text-white ml-28">
-               AWS Cloud Practioner
+              AWS Cloud Practioner
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
               Completed on July 7th, 2023
