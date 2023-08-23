@@ -198,7 +198,7 @@ export default function Contact() {
             <div className="text-white flex flex-row gap-7 w-fit mx-auto pt-4">
               <div
                 onClick={() =>
-                  window.open("https://github.com/daniel-jebarson", "_blank")
+                  window.open("https://github.com/ReckoningHero", "_blank")
                 }
               >
                 <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -217,7 +217,7 @@ export default function Contact() {
               <div
                 onClick={() =>
                   window.open(
-                    "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+                    "https://www.linkedin.com/in/twinb0rn/",
                     "_blank"
                   )
                 }

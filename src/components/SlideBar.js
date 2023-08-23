@@ -78,7 +78,7 @@ export default function Slidebar() {
       >
         <div
           onClick={() =>
-            window.open("https://github.com/daniel-jebarson", "_blank")
+            window.open("https://github.com/ReckoningHero", "_blank")
           }
         >
           <GitHubIcon className="cursor-pointer hover:scale-105" />
@@ -94,7 +94,7 @@ export default function Slidebar() {
         <div
           onClick={() =>
             window.open(
-              "https://www.linkedin.com/in/daniel-jebarson-k-a727a822a",
+              "https://www.linkedin.com/in/twinb0rn/",
               "_blank"
             )
           }
