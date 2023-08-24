@@ -27,7 +27,7 @@ export default function Home() {
             strings: [
               "✋I'm Joshua D. Nguyen",
               "I'm an enthusiast Software 🌐Engineer",
-              "I'm a Unity/Unreal Engine Game Developer",
+              "I'm a 🎮 Unity/Unreal Engine Game Developer",
               "You can 📲 me through discord or ✉️",
             ],
             delay: 150,
