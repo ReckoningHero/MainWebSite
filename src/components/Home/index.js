@@ -7,6 +7,7 @@ export default function Home() {
     const splitter = new GraphemeSplitter();
     return splitter.splitGraphemes(string);
   };
+
   return (
     <div className="min-h-screen grid grid-cols-1 gap-7 name content-center text-center">
       <h1

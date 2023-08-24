@@ -1,8 +1,9 @@
 import "../App.css";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import InstagramIcon from "@mui/icons-material/Instagram";
-import FacebookIcon from "@mui/icons-material/Facebook";
+
+//import InstagramIcon from "@mui/icons-material/Instagram";
+//import FacebookIcon from "@mui/icons-material/Facebook";
 import { useState } from "react";
 
 export default function Slidebar() {
@@ -85,14 +86,6 @@ export default function Slidebar() {
         </div>
         <div
           onClick={() =>
-            window.open("https://www.instagram.com/daniel_diago2003", "_blank")
-          }
-        >
-          {" "}
-          <InstagramIcon className="cursor-pointer hover:scale-105" />
-        </div>
-        <div
-          onClick={() =>
             window.open(
               "https://www.linkedin.com/in/twinb0rn/",
               "_blank"
@@ -101,13 +94,6 @@ export default function Slidebar() {
         >
           {" "}
           <LinkedInIcon className="cursor-pointer hover:scale-105" />
-        </div>
-        <div
-          onClick={() =>
-            window.open("https://www.facebook.com/daniel.jebarson.9", "_blank")
-          }
-        >
-          <FacebookIcon className="cursor-pointer hover:scale-105" />
         </div>
       </div>
     </div>
