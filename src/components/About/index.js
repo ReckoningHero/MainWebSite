@@ -39,9 +39,7 @@ export default function About() {
             className="text-justify leading-7 text-slate-900"
             data-aos={"fade-right"}
           >
-            I am currently looking for jobs. I am also a discord bot developer.
-            I worked on reactJs, NextJs, TypeScript, Java and many more. I am
-            also looking to collaborate in open-source projects.
+            I am
           </p>
         </div>
 
