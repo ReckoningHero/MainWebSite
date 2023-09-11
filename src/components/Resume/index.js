@@ -74,10 +74,10 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              Frontend Development Libraries
+            Electronics Arts Software Engineering 
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2022
+              Completed on December 9, 2023
             </time>
             <p class="text-base font-normal text-gray-400">
               Learns how to style your site quickly with Bootstrap. I also learn
